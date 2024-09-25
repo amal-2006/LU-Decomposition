@@ -50,10 +50,10 @@ print(x)
 ```
 
 ## Output:
-### Output 1
+### Output 1-
 ![image](https://github.com/user-attachments/assets/2d59c24b-39e2-4cbb-a3ee-719ebffc2269)
 
-### Output 2
+### Output 2-
 ![image](https://github.com/user-attachments/assets/e228ca2b-3f4d-43fe-a761-12f889723452)
 
 

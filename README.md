@@ -24,8 +24,6 @@ To write a program to find the LU Decomposition of a matrix.
 ```
 Developed by: AMALJOSH MAADHAV J
 RegisterNumber: 212223230012
-
-
 ```
 ```
 
@@ -44,10 +42,8 @@ print(U)
 Developed by: AMALJOSH MAADHAV J
 RegisterNumber:  212223230012
 
-
 ```
 ```
-
 import numpy as np
 from scipy.linalg import lu_factor,lu_solve
 A=np.array(eval(input()))
